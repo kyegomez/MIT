@@ -52,9 +52,7 @@ Here's a step-by-step guide on how to implement the MIT pipeline:
 
 4. **Visual Q&A**: This pipeline can be utilized to create a visual question-answering system where the model responds to text-based queries about the visual content.
 
-5
-
-. **Video-to-Text**: This pipeline can transcribe visual content into textual form, making the content more accessible.
+5 **Video-to-Text**: This pipeline can transcribe visual content into textual form, making the content more accessible.
 
 Remember, we encourage ideas, suggestions, and contributions from the open-source community. Let's build this together!
 
